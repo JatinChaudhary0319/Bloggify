@@ -30,7 +30,7 @@
 A react based blog website showcasing simple routing and params id based routing & lazy loading for optimized user experience utilizing fake news api.
 
 ## Live Demo Link:
-You can visit and have a look <a href=https://blog-page-deployment.web.app/" target="_blank" rel="noopener noreferrer">here</a>.
+You can visit and have a look <a href="https://blog-page-deployment.web.app/" target="_blank" rel="noopener noreferrer">here</a>.
 
 ## Blog list
 ![blog-list](https://github.com/JatinChaudhary0319/Bloggify/assets/137517499/06839a52-5b77-4ff8-aa81-f4908596db73)
